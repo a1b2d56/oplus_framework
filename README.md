@@ -1,2 +1,2 @@
 # oplus_framework
-/System/framework/framework.jar
+/system/framework/framework.jar
